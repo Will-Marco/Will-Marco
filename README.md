@@ -56,7 +56,7 @@
 
 ### Contact With Me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/Will_Marco)
+[![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/firdavs_abdiazizov)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/firdavs-abdiazizov/)
 [![Gmail](https://img.shields.io/badge/-gmail-082032?style=for-the-badge&logo=gmail&logoColor=0A66C2)](mailto:firdavsabdiazizov@gmail.com)
 
